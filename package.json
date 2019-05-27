@@ -1,0 +1,19 @@
+{
+  "name": "emergency_compliment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "sara",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "underscore": "^1.9.1"
+  }
+}
